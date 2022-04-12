@@ -1,0 +1,27 @@
+* {
+    font-family: 'Courier New', Courier, sans-serif;
+}
+
+body {
+    background-color: grey;
+}
+
+.title {
+    text-align: center;
+    background-color: lightgrey;
+    font-size: 39px;
+}
+
+img {
+    height: 300px;
+    width: auto;
+    border: 1px solid lightgray;
+}
+
+.top {
+    text-align: center;
+}
+ a {
+    text-decoration: none;
+    color: greenyellow;
+ }
